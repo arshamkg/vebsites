@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h1>Welcome to my first site!</h1>
-<p>Hello!My name is Arsham.</p>
+<h1 style="color: rgb(3, 241, 249);text-align: center;">Welcome to my first site!</h1>
+<b style="color: rgb(19, 19, 19);text-align: center;">Hello!My name is Arsham.</b>
 
 </body>
 </html>
